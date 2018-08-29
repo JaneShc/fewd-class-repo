@@ -6,9 +6,7 @@ My final FEWD project will be a personal page of my data-related work. I will ai
 
 1 very simple central / main page consisting of a few lines of 'title' text and a ul with links out to all projects.  
 
-<p>
-<img src="https://res.cloudinary.com/janshclo/image/upload/v1535581580/GA%20Final%20Project/Wireframe.pdf" alt="Wireframe" style="max-width:100%;">
-</p>
+https://res.cloudinary.com/janshclo/image/upload/v1535581580/GA%20Final%20Project/Wireframe.pdf
 
 ## Priority Matrix
 
