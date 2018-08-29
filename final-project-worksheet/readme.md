@@ -1,37 +1,14 @@
-# Project Overview
-
-## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
-
-|  Day | Deliverable | Status
-|---|---| ---|
-|August 21st| Project Description | Incomplete
-|August 28th| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Sep 4th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Sep 11th| Minimal Viable Product | Incomplete
-|Sep 18th| Styling / Bug Fixes | Incomplete
-|Sep 25th| Presentations 
-
-
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
-
-These are some links to sites that I would like to emulate:
-
-- [I'm an inline-style link](https://www.google.com)
-
-Here are some images that I would like to emulate in my project:
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+My final FEWD project will be a personal page of my data-related work. I will aim to showcase a portfolio of projects spanning data software, data coding work, and print / drawing, each living on its own page built to suit it (style / theme will carry throughout). From a coding standpoint, it will feature interactive graphs / maps (D3 & javascript), embedded experiences (Tableau, Instagram posts), and  images of non-digital work.
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+1 very simple central / main page consisting of a few lines of 'title' text and a ul with links out to all projects.  
+
+<p>
+<img src="https://res.cloudinary.com/janshclo/image/upload/v1535581580/GA%20Final%20Project/Wireframe.pdf" alt="Wireframe" style="max-width:100%;">
+</p>
 
 ## Priority Matrix
 
